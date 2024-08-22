@@ -1,7 +1,7 @@
 game:GetService("StarterGui"):SetCore("SendNotification",{
     Title = "MantiWPF",
-    Icon = "rbxassetid://18956441295",
-    Text = "version v3.0.0",
+    Icon = "rbxassetid://18956441273",
+    Text = "MantiWPF v3",
     Duration = 5    
 })
 print("MantiWPF is injected!")
